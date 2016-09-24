@@ -1,0 +1,7 @@
+ofxAssimpModelLoader
+ofxGui
+ofxMSAInteractiveObject
+ofxNetwork
+ofxOsc
+ofxSpout2
+ofxXmlSettings
