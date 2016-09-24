@@ -1,4 +1,4 @@
-# SenseroSpoutClient
+# SenderoSpoutClient
 Spout2 client for Sendero
 
 This is built on OF 0.93, and uses the following addons:
